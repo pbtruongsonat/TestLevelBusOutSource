@@ -1,0 +1,509 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09cf67c0779a154aa6ecf223c6ec9f4, type: 3}
+  m_Name: CarSO
+  m_EditorClassIdentifier: 
+  carDirections:
+  - direction: 0
+    arrowSprite: {fileID: 21300000, guid: bfcb571893b69ce459f28edc5191d4a5, type: 3}
+    colliderConfigs:
+    - size: 0
+      colliderPoints:
+      - {x: 0.44889164, y: -0.025112018}
+      - {x: -0.46960038, y: -0.027647644}
+      - {x: -0.46764135, y: -0.6231632}
+      - {x: 0.4590634, y: -0.6226469}
+      touchCollider:
+      - {x: 0.38297194, y: -0.5974744}
+      - {x: 0.3790384, y: 0.62094885}
+      - {x: -0.3619793, y: 0.61405814}
+      - {x: -0.35722578, y: -0.5955948}
+    - size: 1
+      colliderPoints:
+      - {x: 0.4007526, y: 0.101825595}
+      - {x: -0.4146235, y: 0.09720141}
+      - {x: -0.41000003, y: -0.7339803}
+      - {x: 0.40537623, y: -0.7386038}
+      touchCollider:
+      - {x: -0.39221805, y: 0.6489054}
+      - {x: -0.39000812, y: -0.7521948}
+      - {x: 0.39708856, y: -0.7509314}
+      - {x: 0.39535493, y: 0.6480043}
+    - size: 2
+      colliderPoints:
+      - {x: -0.41302675, y: 0.1619342}
+      - {x: -0.41924715, y: -0.8414193}
+      - {x: 0.431522, y: -0.8495739}
+      - {x: 0.41000003, y: 0.15840332}
+      touchCollider:
+      - {x: 0.40241057, y: -1.1457436}
+      - {x: 0.40715563, y: 1.1170126}
+      - {x: -0.40344837, y: 1.1176277}
+      - {x: -0.40337974, y: -1.148941}
+    offsetArrows:
+    - size: 0
+      offset: {x: 0, y: 0.43}
+    - size: 1
+      offset: {x: 0, y: 0.47}
+    - size: 2
+      offset: {x: 0, y: 0.47}
+  - direction: 4
+    arrowSprite: {fileID: 21300000, guid: 83deb79800ffa8f4ab62bb9173a37cb5, type: 3}
+    colliderConfigs:
+    - size: 0
+      colliderPoints:
+      - {x: 0.32257178, y: 0.72619766}
+      - {x: -0.3590136, y: 0.72691166}
+      - {x: -0.3577491, y: 0.10266617}
+      - {x: 0.321105, y: 0.10281269}
+      touchCollider:
+      - {x: 0.38340443, y: -0.5978895}
+      - {x: 0.3761346, y: 0.6051973}
+      - {x: -0.35963166, y: 0.59973836}
+      - {x: -0.3633058, y: -0.6098996}
+    - size: 1
+      colliderPoints:
+      - {x: -0.39288077, y: 0.15037677}
+      - {x: 0.4130272, y: 0.16259617}
+      - {x: 0.4037795, y: 0.7918562}
+      - {x: -0.3806607, y: 0.7918565}
+      touchCollider:
+      - {x: -0.37069407, y: 0.6736106}
+      - {x: -0.3714117, y: -0.7241194}
+      - {x: 0.39237216, y: -0.72520065}
+      - {x: 0.3962677, y: 0.67372084}
+    - size: 2
+      colliderPoints:
+      - {x: 0.41924766, y: 0.20817168}
+      - {x: 0.39453214, y: 0.99420834}
+      - {x: -0.39150506, y: 0.9814298}
+      - {x: -0.40840316, y: 0.19539326}
+      touchCollider:
+      - {x: 0.4327294, y: -1.246574}
+      - {x: 0.41641936, y: 1.1675797}
+      - {x: -0.40584815, y: 1.1644803}
+      - {x: -0.41554055, y: -1.2476616}
+    offsetArrows:
+    - size: 0
+      offset: {x: 0, y: 0.23}
+    - size: 1
+      offset: {x: 0, y: 0.52}
+    - size: 2
+      offset: {x: 0, y: 0.88}
+  - direction: 6
+    arrowSprite: {fileID: 21300000, guid: 3c9d7d4a1f34da14998517303102d762, type: 3}
+    colliderConfigs:
+    - size: 0
+      colliderPoints:
+      - {x: 0.5895437, y: -0.30067265}
+      - {x: 0.5813652, y: 0.31491053}
+      - {x: 0.009348616, y: 0.31079113}
+      - {x: 0.0019258335, y: -0.29820114}
+      touchCollider:
+      - {x: -0.654793, y: 0.20765342}
+      - {x: 0.670243, y: 0.21556026}
+      - {x: 0.6752305, y: -0.3876563}
+      - {x: -0.6371217, y: -0.39037776}
+    - size: 1
+      colliderPoints:
+      - {x: 0.026229203, y: -0.43452922}
+      - {x: 0.782927, y: -0.4299057}
+      - {x: 0.78755045, y: 0.5236789}
+      - {x: 0.016981512, y: 0.5190555}
+      touchCollider:
+      - {x: -0.71753937, y: -0.42542252}
+      - {x: 0.77377605, y: -0.43079022}
+      - {x: 0.7957432, y: 0.24017957}
+      - {x: -0.7772787, y: 0.23203807}
+    - size: 2
+      colliderPoints:
+      - {x: 0.16031781, y: -0.46227163}
+      - {x: 1.0326091, y: -0.4576481}
+      - {x: 1.0478051, y: 0.5682651}
+      - {x: 0.16031769, y: 0.5606693}
+      touchCollider:
+      - {x: -1.3713665, y: -0.4397096}
+      - {x: 1.4231818, y: -0.41362017}
+      - {x: 1.4194142, y: 0.22301117}
+      - {x: -1.4084407, y: 0.19675392}
+    offsetArrows:
+    - size: 0
+      offset: {x: -0.06, y: 0.67}
+    - size: 1
+      offset: {x: 0.05, y: 0.64}
+    - size: 2
+      offset: {x: 0.22, y: 0.64}
+  - direction: 2
+    arrowSprite: {fileID: 21300000, guid: 3c9d7d4a1f34da14998517303102d762, type: 3}
+    colliderConfigs:
+    - size: 0
+      colliderPoints:
+      - {x: 0.05019951, y: -0.24749768}
+      - {x: 0.042021036, y: 0.37568152}
+      - {x: -0.34925008, y: 0.3749429}
+      - {x: -0.339912, y: -0.26021963}
+      touchCollider:
+      - {x: 0.7161885, y: 0.17210868}
+      - {x: -0.7122505, y: 0.20263493}
+      - {x: -0.7333947, y: -0.39735034}
+      - {x: 0.6758978, y: -0.39684045}
+    - size: 1
+      colliderPoints:
+      - {x: -0.5805979, y: 0.4605323}
+      - {x: 0.07600421, y: 0.47411275}
+      - {x: 0.06670129, y: -0.062236786}
+      - {x: -0.5683867, y: -0.080180645}
+      touchCollider:
+      - {x: 0.7634687, y: -0.46324673}
+      - {x: -0.8359159, y: -0.4361937}
+      - {x: -0.838971, y: 0.24017957}
+      - {x: 0.7853839, y: 0.21582767}
+    - size: 2
+      colliderPoints:
+      - {x: -0.14285846, y: -0.45143783}
+      - {x: -1.0908415, y: -0.43033573}
+      - {x: -1.1224797, y: 0.52347094}
+      - {x: -0.16688204, y: 0.5350712}
+      touchCollider:
+      - {x: 1.488078, y: -0.47386897}
+      - {x: -1.585597, y: -0.44031847}
+      - {x: -1.541782, y: 0.21411172}
+      - {x: 1.525152, y: 0.2138336}
+    offsetArrows:
+    - size: 0
+      offset: {x: -0.06, y: 0.67}
+    - size: 1
+      offset: {x: 0.05, y: 0.64}
+    - size: 2
+      offset: {x: 0.22, y: 0.64}
+  - direction: 1
+    arrowSprite: {fileID: 21300000, guid: 3763af98a19e16c4298b555b3e49f6d3, type: 3}
+    colliderConfigs:
+    - size: 0
+      colliderPoints:
+      - {x: 0.10107319, y: -0.3587908}
+      - {x: 0.32467514, y: 0.15966064}
+      - {x: -0.3066547, y: 0.35258377}
+      - {x: -0.616761, y: -0.08656438}
+      touchCollider:
+      - {x: -0.7901297, y: -0.15890741}
+      - {x: 0.1607757, y: 0.67440206}
+      - {x: 0.7144284, y: 0.2043935}
+      - {x: -0.2449824, y: -0.6081151}
+    - size: 1
+      colliderPoints:
+      - {x: 0.31416523, y: -0.11978954}
+      - {x: -0.21063268, y: 0.30538052}
+      - {x: -0.7310604, y: -0.08539379}
+      - {x: -0.19515282, y: -0.4993193}
+      touchCollider:
+      - {x: 0.8515545, y: 0.069590926}
+      - {x: -0.281133, y: -0.7581541}
+      - {x: -0.8605669, y: -0.31003562}
+      - {x: 0.2450918, y: 0.52255404}
+    - size: 2
+      colliderPoints:
+      - {x: -0.26537377, y: 0.41698015}
+      - {x: -0.80812633, y: 0.00538978}
+      - {x: -0.29304448, y: -0.5777347}
+      - {x: 0.26164687, y: -0.17851913}
+      touchCollider:
+      - {x: -0.8842371, y: -1.0339743}
+      - {x: 1.280885, y: 0.6077791}
+      - {x: 0.5995878, y: 1.0472968}
+      - {x: -1.471719, y: -0.6298467}
+    offsetArrows:
+    - size: 0
+      offset: {x: 0.153, y: 0.564}
+    - size: 1
+      offset: {x: 0.19, y: 0.55}
+    - size: 2
+      offset: {x: 0.25, y: 0.44}
+  - direction: 3
+    arrowSprite: {fileID: 21300000, guid: c52d3c586cb00cb4b87b4297c27587cd, type: 3}
+    colliderConfigs:
+    - size: 0
+      colliderPoints:
+      - {x: 0.35408008, y: 0.46205094}
+      - {x: -0.14387667, y: 0.77921224}
+      - {x: -0.61030036, y: 0.34930533}
+      - {x: -0.18000677, y: 0.010976076}
+      touchCollider:
+      - {x: 0.7086092, y: -0.15245104}
+      - {x: -0.2029016, y: 0.6535861}
+      - {x: -0.75329, y: 0.18536067}
+      - {x: 0.1509277, y: -0.6020421}
+    - size: 1
+      colliderPoints:
+      - {x: -0.24893713, y: 0.54777706}
+      - {x: -0.662919, y: 0.12145537}
+      - {x: -0.29543847, y: -0.13658962}
+      - {x: 0.12527937, y: 0.26060036}
+      touchCollider:
+      - {x: 0.1786552, y: -0.77037746}
+      - {x: -0.8384057, y: 0.014703453}
+      - {x: -0.2521966, y: 0.46481532}
+      - {x: 0.8026841, y: -0.34504035}
+    - size: 2
+      colliderPoints:
+      - {x: -0.29925668, y: 0.7837265}
+      - {x: -0.91079175, y: 0.16625151}
+      - {x: -0.37098774, y: -0.25131717}
+      - {x: 0.27366352, y: 0.350607}
+      touchCollider:
+      - {x: 0.7999132, y: -1.2283232}
+      - {x: -1.349033, y: 0.49476498}
+      - {x: -0.6958605, y: 1.0280786}
+      - {x: 1.458233, y: -0.7072841}
+    offsetArrows:
+    - size: 0
+      offset: {x: -0.05, y: 0.59}
+    - size: 1
+      offset: {x: 0.14, y: 0.58}
+    - size: 2
+      offset: {x: 0.2, y: 0.84}
+  - direction: 5
+    arrowSprite: {fileID: 21300000, guid: c52d3c586cb00cb4b87b4297c27587cd, type: 3}
+    colliderConfigs:
+    - size: 0
+      colliderPoints:
+      - {x: 0.68832153, y: 0.27214053}
+      - {x: 0.21315378, y: 0.7412305}
+      - {x: -0.17371505, y: 0.4440533}
+      - {x: 0.31375912, y: 0.010976315}
+      touchCollider:
+      - {x: -0.7086092, y: -0.15245104}
+      - {x: 0.16816486, y: 0.59906447}
+      - {x: 0.6987036, y: 0.17047346}
+      - {x: -0.18268637, y: -0.57425195}
+    - size: 1
+      colliderPoints:
+      - {x: 0.29040694, y: 0.6313373}
+      - {x: -0.040014505, y: 0.3569438}
+      - {x: 0.3198697, y: -0.055422336}
+      - {x: 0.6798163, y: 0.26060036}
+      touchCollider:
+      - {x: -0.18616813, y: -0.74282986}
+      - {x: 0.79833645, y: 0.024720773}
+      - {x: 0.23795092, y: 0.45056972}
+      - {x: -0.7450845, y: -0.32500574}
+    - size: 2
+      colliderPoints:
+      - {x: 0.3768226, y: 0.8596905}
+      - {x: -0.09038076, y: 0.45491442}
+      - {x: 0.36586258, y: 0.014556259}
+      - {x: 0.8509895, y: 0.45695624}
+      touchCollider:
+      - {x: -0.7580465, y: -1.1557546}
+      - {x: 1.2625089, y: 0.4640628}
+      - {x: 0.651343, y: 0.9340971}
+      - {x: -1.3410063, y: -0.679373}
+    offsetArrows:
+    - size: 0
+      offset: {x: -0.05, y: 0.59}
+    - size: 1
+      offset: {x: 0.14, y: 0.58}
+    - size: 2
+      offset: {x: 0.2, y: 0.84}
+  - direction: 7
+    arrowSprite: {fileID: 21300000, guid: 3763af98a19e16c4298b555b3e49f6d3, type: 3}
+    colliderConfigs:
+    - size: 0
+      colliderPoints:
+      - {x: 0.6291618, y: -0.1021553}
+      - {x: 0.36029398, y: 0.3989312}
+      - {x: -0.25207287, y: 0.15930226}
+      - {x: 0.021090567, y: -0.34255698}
+      touchCollider:
+      - {x: 0.75363237, y: -0.14674164}
+      - {x: -0.14556846, y: 0.6318218}
+      - {x: -0.68705547, y: 0.1831034}
+      - {x: 0.2267337, y: -0.5807421}
+    - size: 1
+      colliderPoints:
+      - {x: 0.19317195, y: 0.37499267}
+      - {x: -0.2376141, y: -0.12176907}
+      - {x: 0.16909209, y: -0.414205}
+      - {x: 0.63621736, y: -0.007392913}
+      touchCollider:
+      - {x: -0.80278987, y: 0.06535052}
+      - {x: 0.25364757, y: -0.7071097}
+      - {x: 0.7938165, y: -0.30610913}
+      - {x: -0.24305765, y: 0.4987797}
+    - size: 2
+      colliderPoints:
+      - {x: 0.4399411, y: 0.38894182}
+      - {x: -0.15838036, y: -0.12259868}
+      - {x: 0.31466722, y: -0.52695394}
+      - {x: 0.82976526, y: -0.048183113}
+      touchCollider:
+      - {x: 0.79408324, y: -0.96294403}
+      - {x: -1.2016586, y: 0.5504084}
+      - {x: -0.5875086, y: 1.0212651}
+      - {x: 1.3487822, y: -0.5595787}
+    offsetArrows:
+    - size: 0
+      offset: {x: 0.153, y: 0.564}
+    - size: 1
+      offset: {x: 0.19, y: 0.55}
+    - size: 2
+      offset: {x: 0.25, y: 0.44}
+  carConfigs:
+  - color: 5
+    size: 0
+    carAnimation: {fileID: 22100000, guid: b6a299b0f98d972438182759d982c51e, type: 2}
+  - color: 5
+    size: 1
+    carAnimation: {fileID: 22100000, guid: f3a094df88725e84d8a11dce2003791a, type: 2}
+  - color: 5
+    size: 2
+    carAnimation: {fileID: 22100000, guid: 8ee0a5c1c0056214d9c644d2396fc036, type: 2}
+  - color: 0
+    size: 0
+    carAnimation: {fileID: 22100000, guid: 2aa9732e5695d9b42b8d0ea4d6662020, type: 2}
+  - color: 0
+    size: 1
+    carAnimation: {fileID: 22100000, guid: 37211f22a9ed96f4997805bfc9b80052, type: 2}
+  - color: 0
+    size: 2
+    carAnimation: {fileID: 22100000, guid: 3fe688343eb250a4cbb3a3e4ed8a15d4, type: 2}
+  - color: 1
+    size: 0
+    carAnimation: {fileID: 22100000, guid: 0347cb4a82bc422428c8a878f030b290, type: 2}
+  - color: 1
+    size: 1
+    carAnimation: {fileID: 22100000, guid: 367ae5d8424a3e843a78836441b36c2d, type: 2}
+  - color: 1
+    size: 2
+    carAnimation: {fileID: 22100000, guid: 102043ccc7f7d2e41884a0aec3f19d30, type: 2}
+  - color: 2
+    size: 0
+    carAnimation: {fileID: 22100000, guid: 540491c8f43b52a4e8ec6fbbcd3f4bdd, type: 2}
+  - color: 2
+    size: 1
+    carAnimation: {fileID: 22100000, guid: 5f947a4857eec2948964e4fa7730e49d, type: 2}
+  - color: 2
+    size: 2
+    carAnimation: {fileID: 22100000, guid: a6bbcb65ae8469a4490932f3b31e5e87, type: 2}
+  - color: 3
+    size: 0
+    carAnimation: {fileID: 22100000, guid: a4e176c7d2caa0445aa62be1c83d46ff, type: 2}
+  - color: 3
+    size: 1
+    carAnimation: {fileID: 22100000, guid: 9dcd009208f1d5c4aa52cd69dc17238b, type: 2}
+  - color: 3
+    size: 2
+    carAnimation: {fileID: 22100000, guid: 8ca227134b8e3df498508032fa74e57e, type: 2}
+  - color: 4
+    size: 0
+    carAnimation: {fileID: 22100000, guid: bc1d3588c32162d4fb9c2f95cc210a7d, type: 2}
+  - color: 4
+    size: 1
+    carAnimation: {fileID: 22100000, guid: fac67827e797c94438f1be5ab3bbd080, type: 2}
+  - color: 4
+    size: 2
+    carAnimation: {fileID: 22100000, guid: c3697ff41017a384c8f8d10a6ebd041f, type: 2}
+  - color: 6
+    size: 0
+    carAnimation: {fileID: 22100000, guid: dbf8c5d6a51608c4294b7b3e2737055e, type: 2}
+  - color: 6
+    size: 1
+    carAnimation: {fileID: 22100000, guid: 436f4b1c8119f4848ae068ecea935a92, type: 2}
+  - color: 6
+    size: 2
+    carAnimation: {fileID: 22100000, guid: be82008530374cd4882604ef8aa7859d, type: 2}
+  - color: 7
+    size: 0
+    carAnimation: {fileID: 22100000, guid: f6ef84f57e4d4434e9b00a6d2fe92395, type: 2}
+  - color: 7
+    size: 1
+    carAnimation: {fileID: 22100000, guid: 6d3f49883f4c09a418c495c29a842530, type: 2}
+  - color: 7
+    size: 2
+    carAnimation: {fileID: 22100000, guid: 5fa7b17195a60aa41a5bd5a4b56253da, type: 2}
+  - color: 8
+    size: 0
+    carAnimation: {fileID: 22100000, guid: 826bcc20fd8a19e42b1159f8425e191f, type: 2}
+  - color: 8
+    size: 1
+    carAnimation: {fileID: 22100000, guid: 08fed29adde070c46be6c34983d3f008, type: 2}
+  - color: 8
+    size: 2
+    carAnimation: {fileID: 22100000, guid: d98d4adb798ef024394155f9a163dba1, type: 2}
+  - color: 9
+    size: 0
+    carAnimation: {fileID: 22100000, guid: 60fda4ea8a98a3d458732532b81e4262, type: 2}
+  - color: 9
+    size: 1
+    carAnimation: {fileID: 22100000, guid: ec94cd55bb5bc3c4e85c0d17d2a17f4d, type: 2}
+  - color: 9
+    size: 2
+    carAnimation: {fileID: 22100000, guid: 2b1c1a5612adc924a91cf986c20649c8, type: 2}
+  - color: 10
+    size: 0
+    carAnimation: {fileID: 22100000, guid: 93d7ca2ee6922d341a6eb902596d068f, type: 2}
+  - color: 10
+    size: 1
+    carAnimation: {fileID: 22100000, guid: 8288b62b3263cac459fe48dc768ef6a0, type: 2}
+  - color: 10
+    size: 2
+    carAnimation: {fileID: 22100000, guid: f5e3fa64dbb13b349ac24f6b37a5d6c1, type: 2}
+  carSlots:
+  - size: 0
+    slotPositions:
+    - {x: -0.09, y: 0.46}
+    - {x: 0.19, y: 0.537}
+    - {x: 0.045, y: 0.189}
+    - {x: 0.287, y: 0.247}
+  - size: 1
+    slotPositions:
+    - {x: -0.157, y: 0.711}
+    - {x: 0.14199999, y: 0.76900005}
+    - {x: -0.016000003, y: 0.39900005}
+    - {x: 0.276, y: 0.46600005}
+    - {x: 0.131, y: 0.08800005}
+    - {x: 0.41399997, y: 0.14600006}
+  - size: 2
+    slotPositions:
+    - {x: -0.263, y: 1.393}
+    - {x: 0.010999977, y: 1.46}
+    - {x: -0.10600002, y: 1.043}
+    - {x: 0.15599997, y: 1.1129999}
+    - {x: 0.035999976, y: 0.713}
+    - {x: 0.30699998, y: 0.77199996}
+    - {x: 0.18499997, y: 0.35399997}
+    - {x: 0.46699998, y: 0.42799997}
+    - {x: 0.334, y: 0.007999986}
+    - {x: 0.617, y: 0.07799998}
+  garageLights:
+  - color: 0
+    lightSprite: {fileID: 21300000, guid: 57a3f736cb78be345b3b26a1c62806db, type: 3}
+  - color: 1
+    lightSprite: {fileID: 21300000, guid: 045bd4c398107224aa6acb10ed7c13c6, type: 3}
+  - color: 2
+    lightSprite: {fileID: 21300000, guid: 4377323698055804389de1fa8252bb1c, type: 3}
+  - color: 3
+    lightSprite: {fileID: 21300000, guid: b0801e57b2d7df44a9dcab8abf93eddd, type: 3}
+  - color: 4
+    lightSprite: {fileID: 21300000, guid: b9e257a880f703f409c4a86e907470e2, type: 3}
+  - color: 5
+    lightSprite: {fileID: 21300000, guid: d701c68d1128b6e44bac338ceb5eeb07, type: 3}
+  - color: 6
+    lightSprite: {fileID: 21300000, guid: bff8a821e49187c4d9673938dc4d19c6, type: 3}
+  - color: 7
+    lightSprite: {fileID: 21300000, guid: 5f48807cbf775aa419543b85a4c6c305, type: 3}
+  - color: 8
+    lightSprite: {fileID: 21300000, guid: 54579a2daca317f4599348c1666a8454, type: 3}
+  - color: 9
+    lightSprite: {fileID: 21300000, guid: 83b8c64e930675849ab45c0750db5007, type: 3}
+  - color: 10
+    lightSprite: {fileID: 21300000, guid: e30ac9aa073fb3845bd8af6a1f99c0f5, type: 3}

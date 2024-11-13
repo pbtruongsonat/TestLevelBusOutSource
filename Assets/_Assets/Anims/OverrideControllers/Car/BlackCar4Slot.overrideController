@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlackCar4Slot
+  m_Controller: {fileID: 9100000, guid: c92a34807f150f14ebcfd75c197e4b06, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 93788f05a45d7ba4e97eabac0b2387c4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ab5a6e776d24d574f9d9737b817fe7b4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 60f1496baecbf1f40bd15430a632f3d1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d7eacca1f180f33459a89a60fbb06f32, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a0ceb06105975d14c852e2301f574f18, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a8d2134495ee8224e83de3192b91d6f1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 15216483797a07c439d685403c0d0548, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 37dcf2edc5a9db8418f3fed24f90d58b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 443af41eb1fcda64e980c3f3e6f346d0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 04d0775d0e27f8341b56b9e411e14486, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a12f5e35454bea944863f10e4658dfa3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ee067f4f673855a41a7cabea72e7a41f, type: 2}

@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1715815232773821743
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8894166008806131068}
+    m_Modifications:
+    - target: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.026000023
+      objectReference: {fileID: 0}
+    - target: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.026000023
+      objectReference: {fileID: 0}
+    - target: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565878038975574279, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+      propertyPath: m_Name
+      value: Parking Vip Effect _ Idle
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+--- !u!4 &1696683009119218248 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 19167683653009255, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+  m_PrefabInstance: {fileID: 1715815232773821743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!198 &6679987788453396819 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 5439179970230768764, guid: 4bcb3e222cfc70449bc13d5e6593f2a4, type: 3}
+  m_PrefabInstance: {fileID: 1715815232773821743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8924873671725322940
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 431229471159477985, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 647380822933062312, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 649355063512956306, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 724689330608431085, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3862401089917309376, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_Name
+      value: ParkingSpace Vip Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3862401089917309376, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8730189948720875317, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: isVipParking
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8730189948720875317, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      propertyPath: vipIdleEffect
+      value: 
+      objectReference: {fileID: 6679987788453396819}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1696683009119218248}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+--- !u!4 &8894166008806131068 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 51203763059480512, guid: c094811cb3dd0034f87a2fdc6b847dd8, type: 3}
+  m_PrefabInstance: {fileID: 8924873671725322940}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46875355641",
+    "project_id": "ih-bus-out-android-41ac",
+    "storage_bucket": "ih-bus-out-android-41ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46875355641:android:0173be604ee2aeeab43528",
+        "android_client_info": {
+          "package_name": "com.bus.escape.mania.jam.parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7af95OS0fQGr6_DZSROku43ETSZpeYHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

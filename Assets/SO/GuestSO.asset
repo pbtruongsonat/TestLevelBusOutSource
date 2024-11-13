@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d088873586330d4c937ec6ddd399dc4, type: 3}
+  m_Name: GuestSO
+  m_EditorClassIdentifier: 
+  guestInfos:
+  - color: 5
+    guestAnimation: {fileID: 22100000, guid: 23aec925e749b914ba102b280caec509, type: 2}
+  - color: 0
+    guestAnimation: {fileID: 22100000, guid: 101f95c804eb8fe4cb04ccae74ce572d, type: 2}
+  - color: 1
+    guestAnimation: {fileID: 22100000, guid: 213696798df631940a5a533c3a5b2e7b, type: 2}
+  - color: 2
+    guestAnimation: {fileID: 22100000, guid: e43ded3fe7c8d7045a61717b4b847e20, type: 2}
+  - color: 3
+    guestAnimation: {fileID: 22100000, guid: 58d965de62d4ffe47aac961bf81fd506, type: 2}
+  - color: 4
+    guestAnimation: {fileID: 22100000, guid: eeed6a2c004d140418ed6f0c6f7946d0, type: 2}
+  - color: 6
+    guestAnimation: {fileID: 22100000, guid: 161163f3d1f803641a3e1e9612566b34, type: 2}
+  - color: 7
+    guestAnimation: {fileID: 22100000, guid: 8f303db6585f6e7448459c8771974b11, type: 2}
+  - color: 8
+    guestAnimation: {fileID: 22100000, guid: e8b109490db739b499f140a54dc1273f, type: 2}
+  - color: 9
+    guestAnimation: {fileID: 22100000, guid: f1e025be862dc1c43942c1ed707d42c9, type: 2}
+  - color: 10
+    guestAnimation: {fileID: 22100000, guid: f2f6e044c925d4b44a4e64882d429218, type: 2}

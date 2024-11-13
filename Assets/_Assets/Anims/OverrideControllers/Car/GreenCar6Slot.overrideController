@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GreenCar6Slot
+  m_Controller: {fileID: 9100000, guid: c92a34807f150f14ebcfd75c197e4b06, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 93788f05a45d7ba4e97eabac0b2387c4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: abb14cb81fdb87544b9b72091332c2ed, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 60f1496baecbf1f40bd15430a632f3d1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 75d988dcffaac2942a8881128c7ab5f3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a0ceb06105975d14c852e2301f574f18, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b18fb2ab2bf93984a84eb644f18c658b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 15216483797a07c439d685403c0d0548, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6cfb1342f53793746a625375240c44a1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 443af41eb1fcda64e980c3f3e6f346d0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e1e7d0d971a46214cb790357859acbf8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a12f5e35454bea944863f10e4658dfa3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2321656af04326e409d3bfe967083ac6, type: 2}

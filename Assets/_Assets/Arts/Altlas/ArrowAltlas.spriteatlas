@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ArrowAltlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 83deb79800ffa8f4ab62bb9173a37cb5, type: 3}
+    - {fileID: 2800000, guid: c52d3c586cb00cb4b87b4297c27587cd, type: 3}
+    - {fileID: 2800000, guid: 3c9d7d4a1f34da14998517303102d762, type: 3}
+    - {fileID: 2800000, guid: bfcb571893b69ce459f28edc5191d4a5, type: 3}
+    - {fileID: 2800000, guid: 3763af98a19e16c4298b555b3e49f6d3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - bfcb571893b69ce459f28edc5191d4a5: 21300000
+    - c52d3c586cb00cb4b87b4297c27587cd: 21300000
+    - 83deb79800ffa8f4ab62bb9173a37cb5: 21300000
+    - 3763af98a19e16c4298b555b3e49f6d3: 21300000
+    - 3c9d7d4a1f34da14998517303102d762: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bfcb571893b69ce459f28edc5191d4a5, type: 3}
+  - {fileID: 21300000, guid: c52d3c586cb00cb4b87b4297c27587cd, type: 3}
+  - {fileID: 21300000, guid: 83deb79800ffa8f4ab62bb9173a37cb5, type: 3}
+  - {fileID: 21300000, guid: 3763af98a19e16c4298b555b3e49f6d3, type: 3}
+  - {fileID: 21300000, guid: 3c9d7d4a1f34da14998517303102d762, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - top
+  - downleft
+  - down
+  - topleft
+  - left
+  m_RenderDataMap: {}
+  m_Tag: ArrowAltlas
+  m_IsVariant: 0

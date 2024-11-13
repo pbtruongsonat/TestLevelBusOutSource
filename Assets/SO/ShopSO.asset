@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6145a4f33908584b87ac37bd42cf8f0, type: 3}
+  m_Name: ShopSO
+  m_EditorClassIdentifier: 
+  packs:
+  - name: No Ads
+    rewards:
+    - id: 0
+      type: 0
+      amount: 0
+      time: 0
+    costValue: 4.99
+    limitBuyCount: 1
+    packIcon: {fileID: 0}
+    key: 0
+  - name: Coin 1
+    rewards:
+    - id: 2
+      type: 2
+      amount: 10000
+      time: 0
+    costValue: 1.99
+    limitBuyCount: -1
+    packIcon: {fileID: 21300000, guid: 8691b8cc9169e0c4499402be94a3cfd2, type: 3}
+    key: 1
+  - name: Coin 2
+    rewards:
+    - id: 2
+      type: 2
+      amount: 30000
+      time: 0
+    costValue: 4.99
+    limitBuyCount: -1
+    packIcon: {fileID: 21300000, guid: 4200332f73c12d24e9738f30e73c8155, type: 3}
+    key: 2
+  - name: Coin 3
+    rewards:
+    - id: 2
+      type: 2
+      amount: 100000
+      time: 0
+    costValue: 11.99
+    limitBuyCount: -1
+    packIcon: {fileID: 21300000, guid: c2da41082ec3c6c4b9081373b5e69620, type: 3}
+    key: 3
+  - name: Coin 4
+    rewards:
+    - id: 2
+      type: 2
+      amount: 180000
+      time: 0
+    costValue: 19.99
+    limitBuyCount: -1
+    packIcon: {fileID: 21300000, guid: 67ee52bef4a1a844b854602993c2247f, type: 3}
+    key: 4
+  - name: Coin 5
+    rewards:
+    - id: 2
+      type: 2
+      amount: 280000
+      time: 0
+    costValue: 29.99
+    limitBuyCount: -1
+    packIcon: {fileID: 21300000, guid: 0eced1934990fb547a17aaa58ab586d3, type: 3}
+    key: 5
+  - name: Coin 6
+    rewards:
+    - id: 2
+      type: 2
+      amount: 600000
+      time: 0
+    costValue: 59.99
+    limitBuyCount: -1
+    packIcon: {fileID: 21300000, guid: 13185ff968797794d89070dfc568ea50, type: 3}
+    key: 6

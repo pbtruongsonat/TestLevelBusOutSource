@@ -1,0 +1,10 @@
+Loading.png
+size:116,76
+filter:Linear,Linear
+pma:true
+Car
+bounds:2,2,92,70
+offsets:1,1,94,72
+Ellipse_1
+bounds:96,54,18,18
+offsets:1,1,20,20

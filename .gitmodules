@@ -1,0 +1,3 @@
+[submodule "Assets/sonat_sdk"]
+	path = Assets/sonat_sdk
+	url = git@github.com:SonatGame/sonat_sdk.git

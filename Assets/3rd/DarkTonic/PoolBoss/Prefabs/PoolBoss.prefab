@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: PoolBoss
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 71.952385, y: 0, z: 293.73053}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d9002c033b7d254fa980031296a4c30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolItems:
+  - prefabSource: 0
+    prefabTransform: {fileID: 2714365574825087355, guid: 54b2bf9e602d9bd4d992f8492f8b1f13,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 4
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 8
+    allowRecycle: 0
+    categoryName: ItemInGame
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 2714365574825087355, guid: 77e03a441a14a8f43a039d84e5ae6fd0,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 4
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 8
+    allowRecycle: 0
+    categoryName: ItemInGame
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 2714365574825087355, guid: fb5a613e4048fc14bbd2cb22b07953cc,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 4
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 8
+    allowRecycle: 0
+    categoryName: ItemInGame
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 2714365574825087355, guid: e16a795159e3f2443a837fec0cf11ccb,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 4
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 8
+    allowRecycle: 1
+    categoryName: ItemInGame
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 2714365574825087355, guid: 807dc4cad91250c439a31672959bd985,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 4
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 8
+    allowRecycle: 0
+    categoryName: ItemInGame
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 2714365574825087355, guid: f026376b5f54a2646824c31b36a8c613,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 4
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 8
+    allowRecycle: 0
+    categoryName: ItemInGame
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 2714365574825087355, guid: 8065876ef3c98084994e7a1715979659,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 4
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 8
+    allowRecycle: 0
+    categoryName: ItemInGame
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 2714365574825087355, guid: 0eb5263349f06ba49aa5a4b5665322ab,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 4
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 8
+    allowRecycle: 0
+    categoryName: ItemInGame
+    isTemporary: 0
+  - prefabSource: 0
+    prefabTransform: {fileID: 2714365574825087355, guid: dc5d9d39306bf0e48bdd73ce9271348a,
+      type: 3}
+    gameObject: {fileID: 0}
+    instancesToPreload: 4
+    isExpanded: 1
+    logMessages: 0
+    allowInstantiateMore: 1
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 8
+    allowRecycle: 0
+    categoryName: ItemInGame
+    isTemporary: 0
+  logMessages: 0
+  useTextFilter: 0
+  textFilter: 
+  autoAddMissingPoolItems: 0
+  allowDespawningInactive: 1
+  newCategoryName: birds
+  addToCategoryName: New Category
+  newItemPrefabSource: 0
+  framesForInit: 1
+  autoCreatePools: 1
+  _changes: 0
+  _categories:
+  - CatName: ItemInGame
+    IsExpanded: 1
+    IsEditing: 0
+    ProspectiveName: ItemInGame
+    IsTemporary: 0

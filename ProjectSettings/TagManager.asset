@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Road
+  - Car
+  - Missile
+  - Obstacle
+  - Garage
+  - CarObstacle
+  - Boundary
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Boundary
+  - Car
+  - Ground
+  - TouchLayer
+  - CarObstacle
+  - Static
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3484567977
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parking
+    uniqueID: 2696083349
+    locked: 0
+  - name: Car
+    uniqueID: 415202867
+    locked: 0
+  - name: Guest
+    uniqueID: 2985347815
+    locked: 0
+  - name: UI
+    uniqueID: 437040511
+    locked: 0
+  - name: Interactable
+    uniqueID: 3410093137
+    locked: 0

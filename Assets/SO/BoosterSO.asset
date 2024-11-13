@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72256801547200746aa7d9c8ebfa1929, type: 3}
+  m_Name: BoosterSO
+  m_EditorClassIdentifier: 
+  boosters:
+  - type: 0
+    name: sort
+    description: Match <color=#82F03D>PASSENGERS</color> with <br> vehicles of the
+      same color
+    icon: {fileID: 0}
+    bigIcon: {fileID: 21300000, guid: 4388ba206ea86da40b788e82e3fbd4f9, type: 3}
+    cost: 2250
+  - type: 1
+    name: 'shuffle '
+    description: <color=#82F03D>SHUFFLE</color> and <color=#82F03D>REARRANGE</color> 
+      the  <br> vehicles by color in the parking lot
+    icon: {fileID: 0}
+    bigIcon: {fileID: 21300000, guid: 8fdefafdd1a8e5144af4da9967dca80e, type: 3}
+    cost: 1500
+  - type: 2
+    name: vip slot
+    description: Relocate <color=#82F03D>ANY CAR</color> <br> to VIP parking spot
+    icon: {fileID: 0}
+    bigIcon: {fileID: 21300000, guid: 8eb2c41c9873bee4ea014223cca33316, type: 3}
+    cost: 3000
+  - type: 3
+    name: magnet
+    description: Move <color=#82F03D>ANY CAR</color> <br> to normal parking spot
+    icon: {fileID: 0}
+    bigIcon: {fileID: 21300000, guid: a30d3c4b197190746915ea3c5731eca7, type: 3}
+    cost: 2000

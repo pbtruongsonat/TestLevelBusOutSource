@@ -1,0 +1,1551 @@
+fileFormatVersion: 2
+guid: e7038b6bee2ac7d4eb09929411916aac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 56.13636
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1788
+        width: 246
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4248397bc6d2b4fbf618f8262fe888
+      internalID: 503743086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1788
+        width: 246
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64baaa6c444fafc4c98fb9c71403f4a5
+      internalID: -1689019385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_9
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1773
+        width: 205
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f97a5495af714941ac43eeaf2a5ec86
+      internalID: -782306802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_14
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1734
+        width: 209
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbf9bc373caf3c45a083c2e1ca7ae51
+      internalID: 105230955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1723
+        width: 256
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903052681fb050849b4d81232bb39906
+      internalID: -1445373925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1728
+        width: 246
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63afcd8ae48aba4489a4180c5127030a
+      internalID: 381255069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_18
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1718
+        width: 214
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5056fdf7d3669284e958331e8ac60784
+      internalID: -999995262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_19
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1773
+        width: 243
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaba71f9db147649838a885ca58a54f
+      internalID: 1716144019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1489
+        width: 253
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae83daa7837c5488287a49a210b518
+      internalID: 66744157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_22
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1548
+        width: 244
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838b382792c998d47bb0aef9388ea441
+      internalID: -1501979903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1489
+        width: 256
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864a67f05bd22a4449c217c2d326a593
+      internalID: 144481236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_28
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1512
+        width: 264
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22eff5a12c433544b68fc5ad6669963
+      internalID: 218349828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_4_phase2
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1486
+        width: 208
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bae5fd17e3b0c4994c3ab8fb985873
+      internalID: -1490837729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_30
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1527
+        width: 213
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a990189a2d2504c85390e82d97d95b
+      internalID: -2002614922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_31
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1527
+        width: 207
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428276dabea942a4abf4cdc2fd596229
+      internalID: 663986986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1309
+        width: 252
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4e10fd7ce911a4291ca5e225637f9f
+      internalID: 1595906186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_35
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1308
+        width: 264
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab36127c68cadc4b995c56827e41904
+      internalID: 1963213299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_36
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1308
+        width: 264
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63ccff73f533e418a4adeb41e46fc0
+      internalID: -2047705449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_38
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1281
+        width: 228
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0fcd3f91cdbee46a80f3abb2a4f457
+      internalID: 941017812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1255
+        width: 256
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f83cbcbe509df43881d14e7cb8bf73
+      internalID: 688653459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1255
+        width: 252
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe4a3efa84e0cc458f3e63067c9869e
+      internalID: 1753128572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_41
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1073
+        width: 249
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f502c309d6aa294eae287773d0c013b
+      internalID: -1844038677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_42
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1098
+        width: 264
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0d3b3c70afb4e4e9aa98a93165acd3
+      internalID: 1726197762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_43
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1098
+        width: 264
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428e5b11b4a23804ca375bc270eedbab
+      internalID: -1160123468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_44
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1280
+        width: 262
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622ed657aa93094b8145bd9a9e645e7
+      internalID: 1954111222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1021
+        width: 254
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e52ddd3d52bef42ab70e818b82a781
+      internalID: 511204930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1021
+        width: 252
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c338bdcedc833d3458c75ad441c1918b
+      internalID: -1511974596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_50
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 888
+        width: 264
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e761b5e2d4d1a74ba71f214ede0c4c4
+      internalID: 149615099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_51
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1074
+        width: 264
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe34a5745221f964bb04b31f3f29237d
+      internalID: 1101982082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_52
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1035
+        width: 217
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be11134f62c55418023891eb001495
+      internalID: -417067490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_53
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1035
+        width: 210
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37483ce66b3eb5147a2de1d08cdbb1b7
+      internalID: 208488458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_4_topleft
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 833
+        width: 253
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10.5, y: 105.5}
+        - {x: -19.5, y: 111.5}
+        - {x: -42.5, y: 111.5}
+        - {x: -70.5, y: 97.5}
+        - {x: -111.5, y: 58.5}
+        - {x: -118.5, y: 42.5}
+        - {x: -114.5, y: 9.5}
+        - {x: -97.5, y: -15.5}
+        - {x: -65.5, y: -40.5}
+        - {x: -31.5, y: -64.5}
+        - {x: -7.5, y: -86.5}
+        - {x: 19.5, y: -103.5}
+        - {x: 51.5, y: -109.5}
+        - {x: 122.5, y: -40.5}
+        - {x: 120.5, y: -2.5}
+        - {x: 76.5, y: 54.5}
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 6486f1090ea60724cbc0304532e6ec05
+      internalID: -1614519551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_57
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 830
+        width: 247
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b50f2ba88e13ed4692096f9ba7224fa
+      internalID: -254457878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_58
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 870
+        width: 262
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2d9045ecc484a4d8e0e7bad4a43dc1
+      internalID: 1477463225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 596
+        width: 152
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47207bf7cf0c1e94598d42d1b5f4edaf
+      internalID: 1425990930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_64
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 829
+        width: 263
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6face3888e4ceb54bb756e654dabae61
+      internalID: 1049744309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 596
+        width: 221
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa1d77217de8654fb10e3363b4b83c6
+      internalID: -635208366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 594
+        width: 258
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf67e9f675d19468f2f878ef54b4c9
+      internalID: -521191290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_68
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 594
+        width: 256
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8e690661983a740b1164f00ae2907f
+      internalID: 912091581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_70
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 679
+        width: 264
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb899603111f84e8d1fc4b47439add
+      internalID: -1916029200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_71
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 660
+        width: 264
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8960753e1f14fb44bae6e4cdf67db0ac
+      internalID: 2029709161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_72
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 623
+        width: 266
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7121d4062dfa145822c8691ea895d8
+      internalID: -1549100119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 227
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1a0434b48d3e245aa20ba113efbe98
+      internalID: -910247742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_75
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 300
+        width: 225
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece8265c95ea6bf4ba06fecc85a00207
+      internalID: -560676624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_76
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 300
+        width: 222
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d62860e116c364193495505004f59c
+      internalID: -1023348254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_77
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 300
+        width: 222
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7549b685280fc4c96e7d9d06c1bf32
+      internalID: 1514276308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_78
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 468
+        width: 261
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d389afe8b34d04c9b5bcfe7cfb63b0
+      internalID: -1875186944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_79
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 450
+        width: 264
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2ef6b2e6d620b4d80c4dbc0f6faf24
+      internalID: -253855263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_80
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 417
+        width: 264
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521b5ffe7298d54397405a797712813
+      internalID: -1132524526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_4_botleft
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 240
+        width: 264
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 109, y: 24}
+        - {x: 109, y: 44}
+        - {x: 100, y: 59}
+        - {x: 52, y: 107}
+        - {x: 29, y: 111}
+        - {x: -5, y: 111}
+        - {x: -13, y: 102}
+        - {x: -54, y: 73}
+        - {x: -63, y: 65}
+        - {x: -124, y: 1}
+        - {x: -124, y: -37}
+        - {x: -46, y: -98}
+        - {x: -35, y: -98}
+        - {x: -21, y: -94}
+        - {x: -3, y: -85}
+        - {x: 25, y: -50}
+        - {x: 95, y: -7}
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: e8124b424c6879e469368dfca92f024b
+      internalID: 1465755830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_82
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 241
+        width: 262
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6567565b9ba94e8781ac75ddd1388
+      internalID: 1160668080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_83
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 211
+        width: 264
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9daf8a000e7a554b8ffb1dd625a6baf
+      internalID: 1547160231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_84
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 210
+        width: 209
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396eb8cfc7b33cf4fba6b4456d59116f
+      internalID: -196848474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 223
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a110ed69b0c0a54ea94035da2bbe164
+      internalID: 556248415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_87
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 225
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fea2598d09dff42be64edec6244962
+      internalID: -1829615974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_88
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2
+        width: 222
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf9aad6b7b92234da4bd807c8a5b262
+      internalID: 950279076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_89
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2
+        width: 220
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101f7eaac7e1bb44937840a13967db3
+      internalID: 325865406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_90
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 6
+        width: 246
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660e51e70da08b419bc462194b6c7bb
+      internalID: 70044285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_91
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 2
+        width: 247
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ebfaae50678644189b9e24aeba0d11
+      internalID: -1393521075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_95
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2
+        width: 264
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0717ad1803b893544af3030d967fdc79
+      internalID: 1088955581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_96
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 2
+        width: 263
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f295dc40277c2fc4eaa2646b121e3acb
+      internalID: -978044042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      red_4_botleft: 1465755830
+      red_4_phase2: -1490837729
+      red_4_topleft: -1614519551
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_0: 676819989
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_1: 2009970160
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_10: 592156672
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_11: 1598341038
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_12: -560342095
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_13: 1721302712
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_14: 105230955
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_15: 370213811
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_16: -1445373925
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_17: 381255069
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_18: -999995262
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_19: 1716144019
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_2: 720583546
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_20: 1992097537
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_21: 66744157
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_22: -1501979903
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_23: -867214926
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_24: -1143783669
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_25: -714896441
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_26: 144481236
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_27: 1200850153
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_28: 218349828
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_3: -855249276
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_30: -2002614922
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_31: 663986986
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_32: 1595906186
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_33: 1832357894
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_34: -276001367
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_35: 1963213299
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_36: -2047705449
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_37: 1374106342
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_38: 941017812
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_39: 688653459
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_4: 1374671349
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_40: 1753128572
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_41: -1844038677
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_42: 1726197762
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_43: -1160123468
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_44: 1954111222
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_45: 673377124
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_46: -532382125
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_47: 511204930
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_48: -1511974596
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_49: -870257343
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_5: -1654501226
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_50: 149615099
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_51: 1101982082
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_52: -417067490
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_53: 208488458
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_54: 1550888504
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_55: -672234381
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_57: -254457878
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_58: 1477463225
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_59: 538230575
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_6: 503743086
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_60: 398974529
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_61: 1092271195
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_62: 1425990930
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_63: 781400077
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_64: 1049744309
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_65: 977521763
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_66: -635208366
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_67: -521191290
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_68: 912091581
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_69: -2079641625
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_7: -1689019385
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_70: -1916029200
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_71: 2029709161
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_72: -1549100119
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_73: -1858620115
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_74: -910247742
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_75: -560676624
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_76: -1023348254
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_77: 1514276308
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_78: -1875186944
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_79: -253855263
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_8: -992137252
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_80: -1132524526
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_82: 1160668080
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_83: 1547160231
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_84: -196848474
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_85: -957670390
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_86: 556248415
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_87: -1829615974
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_88: 950279076
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_89: 325865406
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_9: -782306802
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_90: 70044285
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_91: -1393521075
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_92: 522852184
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_93: 1935525632
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_94: 795700363
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_95: 1088955581
+      sactx-4-2048x2048-ASTC 6x6-CarAtlas-13e5c549_96: -978044042
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

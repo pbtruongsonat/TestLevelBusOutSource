@@ -1,0 +1,7 @@
+hand_tut.png
+size:458,451
+filter:Linear,Linear
+pma:true
+scale:0.5
+hand
+bounds:2,2,454,447
